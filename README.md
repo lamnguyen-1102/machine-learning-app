@@ -1,9 +1,6 @@
 # 🤖 Machine learning app
-```
-This is a machine learning app
-```
 
-Description of the app ...
+This is a machine learning app
 
 ## Demo App
 
