@@ -2,12 +2,10 @@ streamlit
 numpy
 pandas
 scikit-learn
-time
 matplotlib
 seaborn
 tqdm
 plotly
-pickle
 scipy
 xgboost
 
