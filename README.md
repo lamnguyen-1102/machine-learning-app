@@ -16,8 +16,6 @@ A Streamlit-based interactive web application that predicts whether it will rain
 - [Examples & Visualizations](#examples--visualizations)
 - [Challenges & Learnings](#challenges--learnings)
 - [Future Improvements](#future-improvements)
-- [Contact & Portfolio](#contact--portfolio)
-- [License](#license)
 
 ---
 
